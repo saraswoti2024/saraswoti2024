@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saraswoti2024
-- 👀 I’m interested in devops
-- 🌱 I’m currently learning ...
+ - 👀 I’m interested in devops,cloud
+- 🌱 I’m currently learning python and linux
 - 📫 How to reach me : active mostly on insta and whatsapp
 - 😄 Pronouns:she/her
 - ⚡ Fun fact: Tea works the same way as coffee for me lol
