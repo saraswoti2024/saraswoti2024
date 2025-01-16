@@ -15,14 +15,13 @@
 <!--     ###saraswotikhadka2k2@gmail.com -->
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="gmail logo"  />
   </a>
-</div>
+</div> <br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=saraswoti2024&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
      
-  <img height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlrMTNudHE0dXkxaHRsdTVvc3ZqcG9iYnh0ejE2cDlmMWZtYmR3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif"  />
-
-  <img src="https://github-profile-trophy.vercel.app?username=saraswoti2024&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlrMTNudHE0dXkxaHRsdTVvc3ZqcG9iYnh0ejE2cDlmMWZtYmR3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif"/>
+  <img src="https://github-profile-trophy.vercel.app?username=saraswoti2024&theme=dracula&column=-1&row=1&margin-w=6&margin-h=6&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 </div>
 
