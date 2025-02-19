@@ -11,9 +11,9 @@
   <a href="https://discord.com/channels/@saraswoti1111" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="discord logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLdkFqCVqBtjBWkLsCNZwHXKHPJwfcVqwdnhDnhRGTlNfCLLbfWjfbXGZKFjWGXmMqZHXv" target="_blank"> 
+  <a href="mailto.saraswotikhadka2k2@gmail.com" target="_blank"> 
 <!--     ###saraswotikhadka2k2@gmail.com -->
-    <img src="mailto.saraswotikhadka2k2@gmail.com" height="44" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=7393AA&logoColor=red&labelColor=&style=for-the-badge" height="44" alt="gmail logo"  />
   </a>
 </div> <br>
 
