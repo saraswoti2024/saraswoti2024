@@ -13,7 +13,7 @@
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLdkFqCVqBtjBWkLsCNZwHXKHPJwfcVqwdnhDnhRGTlNfCLLbfWjfbXGZKFjWGXmMqZHXv" target="_blank"> 
 <!--     ###saraswotikhadka2k2@gmail.com -->
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="gmail logo"  />
+    <img src="mailto.saraswotikhadka2k2@gmail.com" height="44" alt="gmail logo"  />
   </a>
 </div> <br>
 
